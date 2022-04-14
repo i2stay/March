@@ -9,8 +9,8 @@
  
 [rewrite_local]
 
-# ～ BaseVPN解鎖訂閱（2022-03-27）@ddgksf2013
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/basevpnpro.js
+# ～ BaseVPN解鎖訂閱（2022-03-27）
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://github.com/i2stay/March/blob/main/Crack/basevpnpro.js
 
 [mitm] 
 
