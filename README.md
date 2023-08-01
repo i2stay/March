@@ -58,5 +58,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/imoki/count.svg" />
+  <img src="https://profile-counter.glitch.me/i2stay/count.svg" />
 </p>
