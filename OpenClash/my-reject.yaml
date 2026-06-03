@@ -1,0 +1,4 @@
+payload:
+
+  # 屏蔽 luobook
+  - DOMAIN-SUFFIX,luobook.fun
