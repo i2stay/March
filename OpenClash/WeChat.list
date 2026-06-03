@@ -57,4 +57,4 @@ DOMAIN-SUFFIX,rttgps.map.qq.com
 DOMAIN-SUFFIX,ue.indoorloc.map.qq.com
 DOMAIN,MicroMessenger
 DOMAIN,WeChat
-# IP-ASN,132203,no-resolve
+IP-ASN,132203,no-resolve
