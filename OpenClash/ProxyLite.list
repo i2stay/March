@@ -1,16 +1,16 @@
 # 代理补充列表
 
 # 青龙
-DOMAIN-SUFFIX,o1098464.ingest.sentry.io
+#DOMAIN-SUFFIX,o1098464.ingest.sentry.io
 
 # ONE-自动购买0元点播视频
-DOMAIN-SUFFIX,api.zbdk8ws.com
-DOMAIN-SUFFIX,api.f38khx.com
-DOMAIN-SUFFIX,api.pjq6he.com
-DOMAIN-SUFFIX,api.a9a2bc4.com
-DOMAIN-SUFFIX,api.53cuk7g.com
-DOMAIN-SUFFIX,api.5ebd5d.com
-DOMAIN-SUFFIX,api.apubis.com
+#DOMAIN-SUFFIX,api.zbdk8ws.com
+#DOMAIN-SUFFIX,api.f38khx.com
+#DOMAIN-SUFFIX,api.pjq6he.com
+#DOMAIN-SUFFIX,api.a9a2bc4.com
+#DOMAIN-SUFFIX,api.53cuk7g.com
+#DOMAIN-SUFFIX,api.5ebd5d.com
+#DOMAIN-SUFFIX,api.apubis.com
 
 #####################################################################################################################
 
