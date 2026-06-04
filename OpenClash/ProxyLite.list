@@ -12,6 +12,9 @@
 #DOMAIN-SUFFIX,api.5ebd5d.com
 #DOMAIN-SUFFIX,api.apubis.com
 
+# TikTok
+DOMAIN-KEYWORD,tiktok
+
 #####################################################################################################################
 
 # 域名后缀匹配
