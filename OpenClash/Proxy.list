@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,lf16-tiktok-web.ttwstatic
 
 # 青龙
 DOMAIN-SUFFIX,o1098464.ingest.sentry.io
+DOMAIN-SUFFIX,cdn.staticfile.org
 
 # ONE-自动购买0元点播视频
 DOMAIN-SUFFIX,api.zbdk8ws.com
