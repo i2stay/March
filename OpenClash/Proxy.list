@@ -1,11 +1,5 @@
 # 代理补充列表
 
-# https://www.hhggaa038.com/index2.html
-DOMAIN-SUFFIX,hga050.com
-DOMAIN-SUFFIX,hga038.com
-DOMAIN-SUFFIX,hga039.com
-DOMAIN-SUFFIX,m617.crw066.com
-
 # TikTok
 DOMAIN-SUFFIX,lf16-tiktok-web.ttwstatic
 
