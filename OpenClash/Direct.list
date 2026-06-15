@@ -1,51 +1,51 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 基础
-#DOMAIN-SUFFIX,microsoft.com
-#DOMAIN-SUFFIX,dyndns.com
-#DOMAIN-SUFFIX,douyucdn.cn
-#DOMAIN-SUFFIX,douyucdn2.cn
-#DOMAIN-SUFFIX,ssl.ptlogin2.qq.com
-#DOMAIN-SUFFIX,msftconnecttest.com
-#DOMAIN-SUFFIX,msftncsi.com
-#DOMAIN-SUFFIX,ip38.com
-#DOMAIN-SUFFIX,api.ipify.org
-#DOMAIN-SUFFIX,ipinfo.io
-#DOMAIN-SUFFIX,www.i2stay.eu.org
-#DOMAIN-SUFFIX,www.yaohuo.me
-#DOMAIN-SUFFIX,3ixi.top
-#DOMAIN-SUFFIX,cloud.3ixi.top
-#DOMAIN-SUFFIX,note.ms
-#DOMAIN-SUFFIX,yaohuo.me
-#DOMAIN-SUFFIX,store.epicgames.com
-#DOMAIN-SUFFIX,wahaha.20232024.xyz
-3DOMAIN-SUFFIX,ip-api.com
-#DOMAIN-SUFFIX,wc.smallfawn.top
-#DOMAIN-SUFFIX,wc.apiplus.plus
-#DOMAIN-SUFFIX,wcsm.f2.sian.one
-#DOMAIN-SUFFIX,axios.defaults.timeout
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,ssl.ptlogin2.qq.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,ip38.com
+DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,www.i2stay.eu.org
+DOMAIN-SUFFIX,www.yaohuo.me
+DOMAIN-SUFFIX,3ixi.top
+DOMAIN-SUFFIX,cloud.3ixi.top
+DOMAIN-SUFFIX,note.ms
+DOMAIN-SUFFIX,yaohuo.me
+DOMAIN-SUFFIX,store.epicgames.com
+DOMAIN-SUFFIX,wahaha.20232024.xyz
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,wc.smallfawn.top
+DOMAIN-SUFFIX,wc.apiplus.plus
+DOMAIN-SUFFIX,wcsm.f2.sian.one
+DOMAIN-SUFFIX,axios.defaults.timeout
 
 # IP变化通知
-#DOMAIN-SUFFIX,icanhazip.com
-#DOMAIN-SUFFIX,ifconfig.me
-#DOMAIN-SUFFIX,checkip.amazonaws.com
-#DOMAIN-SUFFIX,txt.go.sohu.com
-#DOMAIN-SUFFIX,2024.ipchaxun.com
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,checkip.amazonaws.com
+DOMAIN-SUFFIX,txt.go.sohu.com
+DOMAIN-SUFFIX,2024.ipchaxun.com
 
 # 蛋炒饭
-#DOMAIN-SUFFIX,wahaha.20232024.xyz
+DOMAIN-SUFFIX,wahaha.20232024.xyz
 
 # 宠胖胖
-#DOMAIN-SUFFIX,cn-prod01-gw.chongpangpang.com
+DOMAIN-SUFFIX,cn-prod01-gw.chongpangpang.com
 
 # 老友时光汇
-#DOMAIN-SUFFIX,zijinzhaoyao.com
+DOMAIN-SUFFIX,zijinzhaoyao.com
 
 # 尚香书苑
-#DOMAIN-SUFFIX,sxsy19.com
+DOMAIN-SUFFIX,sxsy19.com
 
 # 快萌论坛
-#DOMAIN-SUFFIX,kmacg20.com
+DOMAIN-SUFFIX,kmacg20.com
 
 #############################################################################################################
 
