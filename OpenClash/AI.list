@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,manus
 DOMAIN-KEYWORD,skywork
 DOMAIN-KEYWORD,gemini
 # 域名后缀匹配
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,auth.grokipedia.com
 DOMAIN-SUFFIX,perplexity.ai
