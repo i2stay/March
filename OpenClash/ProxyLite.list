@@ -1,8 +1,5 @@
 # 代理补充列表
 
-# Bark服务器
-DOMAIN-SUFFIX,api.day.app
-
 # LINUX DO
 DOMAIN-SUFFIX,linux.do
 
