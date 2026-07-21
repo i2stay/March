@@ -1,5 +1,8 @@
 # 代理补充列表
 
+# docker
+DOMAIN-SUFFIX,deb.debian.org
+
 # whos.tv
 DOMAIN-SUFFIX,whos.tv
 
