@@ -1,5 +1,8 @@
 # 代理补充列表
 
+# JAVDAY
+DOMAIN-SUFFIX,javday.app
+
 # docker
 DOMAIN-SUFFIX,deb.debian.org
 
