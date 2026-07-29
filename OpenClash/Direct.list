@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,ip38.com
 DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,ipinfo.io
-#DOMAIN-SUFFIX,www.i2stay.eu.org
+DOMAIN-SUFFIX,www.i2stay.eu.org
 DOMAIN-SUFFIX,www.yaohuo.me
 DOMAIN-SUFFIX,3ixi.top
 DOMAIN-SUFFIX,cloud.3ixi.top
