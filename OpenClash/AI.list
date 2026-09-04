@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,manus.im
+
+# 中转站AI
+DOMAIN-SUFFIX,justwoker.icu
