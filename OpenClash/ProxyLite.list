@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflare cdnjs
+DOMAIN-KEYWORD,cloudflare
 
 # JAVDAY
 DOMAIN-SUFFIX,javday.app
