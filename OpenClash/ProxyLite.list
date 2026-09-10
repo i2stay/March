@@ -1,5 +1,17 @@
 # 代理补充列表
 
+# 网站分流测试
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,hanimeone.me
+DOMAIN-SUFFIX,hanime1.com
+DOMAIN-SUFFIX,javchu.com
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare cdnjs
+
 # JAVDAY
 DOMAIN-SUFFIX,javday.app
 
