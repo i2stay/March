@@ -1,5 +1,8 @@
 # 代理补充列表
 
+# Note.ms
+DOMAIN-SUFFIX,note.ms
+
 # 网站分流测试
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,missav.live
