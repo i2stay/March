@@ -1,5 +1,10 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# iKuuu VPN
+DOMAIN-KEYWORD,ikuuu
+DOMAIN-SUFFIX,ikuuu.top
+DOMAIN-SUFFIX,ikuuu.pw
+
 # 基础
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,dyndns.com
