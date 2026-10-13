@@ -1,11 +1,5 @@
 # 代理补充列表
 
-# iKuuuVPN
-DOMAIN-SUFFIX,ikuuu.top
-DOMAIN-SUFFIX,ikuuu.pw
-DOMAIN-SUFFIX,ikuuu.win
-DOMAIN-KEYWORD,ikuuu
-
 # Cool Scene Drama-短剧
 DOMAIN-SUFFIX,dramaverses.com
 DOMAIN-SUFFIX,bytedrama.com
